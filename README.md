@@ -1,0 +1,2 @@
+# Inteligencia-Artificial
+UNIVERSIDAD POLITECNICA SALESIANA 2020
